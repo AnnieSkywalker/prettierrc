@@ -1,0 +1,12 @@
+{
+    "singleQuote": true,
+    "semi": true,
+    "bracketSpacing": true,
+    "arrowParens": "avoid",
+    "vueIndentScriptAndStyle": true,
+    "brackedSameLine": false,
+    "tabWidth": 4,
+    "useTabs": false,
+    "trailingComma": "all",
+    "endOfLine": "lf"
+}
